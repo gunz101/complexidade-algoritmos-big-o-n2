@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| **Aluno** | Luis Fillipe Damasceno Ramalho |
+| **Aluno** | Luis Fillipe Damasceno  |
 | **Matrícula** | 202321214 |
 | **Disciplina** | Complexidade de Algoritmos |
 | **Professor** | Msc. Antônio Tadeu Berardinelli Filho |
